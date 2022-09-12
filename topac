@@ -69,7 +69,7 @@ m = datetime.datetime.now().month
 dayy = datetime.datetime.now().day
 day = datetime.datetime.now().strftime("%A")
 m9zpi = f"{y}-{m}-{dayy} - {day} day"
-DEFAULTUSERBIO = input("[~] Enter BIO :")
+
 APP_ID  = input("[~] Enter APP ID :")
 API_HASH = input("[~] Enter API HASH :")
 
